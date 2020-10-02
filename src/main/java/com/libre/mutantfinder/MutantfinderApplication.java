@@ -8,6 +8,6 @@ public class MutantfinderApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MutantfinderApplication.class, args);
-	}
 
+	}
 }
