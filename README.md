@@ -1,4 +1,4 @@
-***Instructions
+# Instructions
 
 To run clone this repository . You can open it in Intellij and run or
 from windows CDM run
