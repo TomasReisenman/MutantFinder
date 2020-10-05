@@ -12,7 +12,6 @@ import java.util.Map;
 @RequestMapping("/mutant")
 public class MutantController {
 
-    String[] testDna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
 
     private MutantService mutantService;
 
